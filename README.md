@@ -8,12 +8,12 @@
 
 ## About Me
 
-Software engineer with hands-on experience across **frontend, backend, cloud, APIs, and networking**.  
-I’ve completed my **B.Sc in Computer Science** and am currently pursuing **MCA at PSG College of Technology**.
+Software engineer with hands-on experience across **frontend, backend, cloud, APIs, and networking**.
 
-I enjoy building **secure, scalable, and data-driven applications**, experimenting with **machine learning**, and understanding systems end-to-end — from UI to infrastructure.
+I enjoy building **secure, scalable, and data-driven applications**, working on **backend systems**, and understanding how software behaves in real-world environments — from UI to infrastructure.
 
-Continuously learning, contributing to **open source**, and improving through **projects, hackathons, and real-world problem solving**.
+Continuously learning, contributing to **open source**, and improving through **real-world problem solving**.
+
 
 ---
 
